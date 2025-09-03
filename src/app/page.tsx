@@ -118,6 +118,16 @@ const PROJECTS: Project[] = [
     links: {
       github: "https://github.com/akhalifaa/resume-analyzer-dashboard"
     },
+  },
+  {
+    title: "Microsoft Education Product Case (January 2025 - April 2025)",
+    description:
+      "Collaborated with Microsoft employees in Vancouver on a term long case project; reasearching, developing and presenting an AI Educational tool that fits the company's product suite and core beliefs.",
+    stack: ["Stakeholder Engagement", "Customer Interviews", "Research", "Presenting", "Product Development"],
+    highlights: [],
+    links: {
+      
+    },
   }
 ];
 
