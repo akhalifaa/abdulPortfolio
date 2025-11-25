@@ -89,7 +89,16 @@ const CURRENT_ROLE: CurrentRole = {
 };
 
 const PROJECTS: Project[] = [
-    {
+  {
+    title: "Reporta AI - A Smart Reporting Platform",
+    description:
+      "A full-stack SaaS smart reporting tool for construction projects with AI and workflow features.",
+    stack: ["Next.js", "Typescript", "Supabase","PostgreSQL", "OpenAI API"],
+    highlights: ["Database", "AI Integration", "Export to Excel", "UI", "Demo Recording", "Customer Feedback"],
+    links: {
+      github: ""
+    },
+  },{
     title: "AI Equipment Tracker (React + Supabase)",
     description:
       "Minimalist SaaS-style UI for check‑in/out, cost calculator, and maintenance message helper.",
